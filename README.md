@@ -1,2 +1,2 @@
 # Hackerrank-Solution
-In this repo i share the solution of problems in hackerrank
+In this repo i share the solutions of problems in hackerrank
