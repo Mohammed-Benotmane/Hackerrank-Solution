@@ -46,6 +46,16 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Encryption](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Medium/Encryption.java)
  - [Extra Long Factorials](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Medium/Extra%20Long%20Factorials.java)
  - [The Time in Words](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Medium/The%20Time%20in%20Words.java)
+ 
+### 30 Days Of Code:
+ - [Day 0 Hello, World](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%200%20Hello%2C%20World.java.txt)
+ - [Day 1 Data Types](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%201%20Data%20Types.java.txt)
+ - [Day 2 Operators](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%202%20Operators.java.txt)
+ - [Day 3 Intro to Conditional Statements](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%203%20Intro%20to%20Conditional%20Statements.txt)
+ - [Day 4 Class vs. Instance](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%204%20Class%20vs.%20Instance.java.txt)
+ - [Day 5 Loops](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%205%20Loops.java.txt)
+
+ 
 
 ## Team:
 [Jetlighters](https://github.com/JetLightStudio) having fun.
