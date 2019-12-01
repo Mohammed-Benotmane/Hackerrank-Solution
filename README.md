@@ -42,5 +42,10 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Solve Me First](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Solve%20Me%20First.java)
  - [Staircase](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Staircase.java)
 
+### Medium:
+ - [Encryption](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Medium/Encryption.java)
+ - [Extra Long Factorials](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Medium/Extra%20Long%20Factorials.java)
+ - [The Time in Words](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Medium/The%20Time%20in%20Words.java)
+
 ## Team:
 [Jetlighters](https://github.com/JetLightStudio) having fun.
