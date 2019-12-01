@@ -13,6 +13,28 @@ Feel free to fork this project and add whatever you like. If you have any sugges
 ## Table of content:
 ### Easy
  - [A very big sum](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/A%20very%20big%20sum.java)
+ - [Apple ans Orange](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Apple%20ans%20Orange.java)
+ - [Between Two Sets](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Between%20Two%20Sets.java)
+ - [Birthday Cake Candles](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Birthday%20Cake%20Candles.java)
+ - [Birthday Chocolate](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Birthday%20Chocolate.java)
+ - [Bon Appétit](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Bon%20App%C3%A9tit.java)
+ - [Breaking The Records](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Breaking%20The%20Records.java)
+ - [CamelCase](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/CamelCase.java)
+ - [Compare the Triplets](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Compare%20the%20Triplets.java)
+ - [Counting Valleys](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Counting%20Valleys.java)
+ - [Diagonal Difference](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Diagonal%20Difference.java)
+ - [Divisible Sum Pairs](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Divisible%20Sum%20Pairs.java)
+ - [Drawing Book](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Drawing%20Book.java)
+ - [Electronics Shop](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Electronics%20Shop.java)
+ - [Grading Students](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Grading%20Students.java)
+ - [Kangaroo](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Kangaroo.java)
+ - [Mini-Max Sum](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Mini-Max%20Sum.java)
+ - [Picking Numbers](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Picking%20Numbers.java)
+ - [Plus Minus](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Plus%20Minus.java)
+ - [Simple Array Sum](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Simple%20Array%20Sum.java)
+ - [Sock Merchant](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Sock%20Merchant.java)
+ - [Solve Me First](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Solve%20Me%20First.java)
+ - [Staircase](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Staircase.java)
 
 ## Team:
 [Jetlighters](https://github.com/JetLightStudio) having fun.
