@@ -6,3 +6,6 @@ HackerRank is a place where programmers from all over the world come together to
 This repo contains my solutions to the challenges i took in [HackeRank](https://www.hackerrank.com), I will try to keep it always updated as i go further, Feel free to give some feedbacks!.
 
 My HackerRank profile : https://www.hackerrank.com/mohammed_benotm1
+
+## Team:
+[Jetlighters](https://github.com/JetLightStudio) having fun.
