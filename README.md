@@ -7,5 +7,8 @@ This repo contains my solutions to the challenges i took in [HackeRank](https://
 
 My HackerRank profile : https://www.hackerrank.com/mohammed_benotm1
 
+## Contribution:
+Feel free to fork this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
+
 ## Team:
 [Jetlighters](https://github.com/JetLightStudio) having fun.
