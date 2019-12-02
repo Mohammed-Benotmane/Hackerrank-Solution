@@ -55,6 +55,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Day 4 Class vs. Instance](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%204%20Class%20vs.%20Instance.java.txt)
  - [Day 5 Loops](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%205%20Loops.java.txt)
  - [Day 6 Let's Review](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%206%20Let's%20Review.java)
+ - [Day 7 Arrays](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%207%20Arrays.java)
 
  
 
