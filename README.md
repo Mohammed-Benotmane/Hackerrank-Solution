@@ -60,6 +60,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Day 7 Arrays](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%207%20Arrays.java)
  - [Day 8 Dictionaries and Maps](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%208%20Dictionaries%20and%20Maps.java)
  - [Day 9 Recursion 3](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%209%20Recursion%203.java)
+ - [Day 10 Binary Numbers](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%2010%20Binary%20Numbers.java)
 
  
 
