@@ -45,7 +45,7 @@ if(x1==x2){
         }
     }
 }
-return "khtek";
+return "error";
 }
 
 int main()
