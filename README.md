@@ -63,6 +63,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Day 10 Binary Numbers](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%2010%20Binary%20Numbers.java)
  - [Day 11 2D Arrays](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%2011%202D%20Arrays.java)
  - [Day 12 Inheritance](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%2012%20Inheritance.java)
+ - [Day 13 Abstract Classes](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/30%20Days%20Of%20Code/Day%2013%20Abstract%20Classes.java)
 
  
 
