@@ -33,6 +33,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Drawing Book](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Drawing%20Book.java)
  - [Electronics Shop](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Electronics%20Shop.java)
  - [Grading Students](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Grading%20Students.java)
+ - [HackerRank in a String!](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/HackerRank%20in%20a%20String!.java)
  - [Kangaroo](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Kangaroo.java)
  - [Mars Exploration](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Mars%20Exploration.java)
  - [Migratory Birds](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Migratory%20Birds.java)
