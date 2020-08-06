@@ -38,6 +38,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Mars Exploration](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Mars%20Exploration.java)
  - [Migratory Birds](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Migratory%20Birds.java)
  - [Mini-Max Sum](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Mini-Max%20Sum.java)
+ - [Pangrams](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Pangrams.java)
  - [Picking Numbers](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Picking%20Numbers.java)
  - [Plus Minus](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Plus%20Minus.java)
  - [Simple Array Sum](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Simple%20Array%20Sum.java)
