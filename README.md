@@ -34,6 +34,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Electronics Shop](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Electronics%20Shop.java)
  - [Grading Students](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Grading%20Students.java)
  - [Kangaroo](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Kangaroo.java)
+ - [Mars Exploration](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Mars%20Exploration.java)
  - [Migratory Birds](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Migratory%20Birds.java)
  - [Mini-Max Sum](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Mini-Max%20Sum.java)
  - [Picking Numbers](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Picking%20Numbers.java)
@@ -43,6 +44,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Solve Me First](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Solve%20Me%20First.java)
  - [Staircase](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Staircase.java)
  - [Time Conversion](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Time%20Conversion.java)
+ 
 
 ### Medium:
  - [Encryption](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Medium/Encryption.java)
