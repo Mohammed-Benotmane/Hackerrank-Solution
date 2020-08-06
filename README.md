@@ -17,7 +17,7 @@ My HackerRank profile : https://www.hackerrank.com/mohammed_benotm1
 Feel free to fork this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue, use free license art assets please.
 
 ## Table of content:
-### Easy
+### Easy:
  - [A very big sum](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/A%20very%20big%20sum.java)
  - [Apple ans Orange](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Apple%20ans%20Orange.java)
  - [Between Two Sets](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Between%20Two%20Sets.java)
