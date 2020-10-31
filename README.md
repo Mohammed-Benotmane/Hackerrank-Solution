@@ -26,6 +26,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Bon Appétit](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Bon%20App%C3%A9tit.java)
  - [Breaking The Records](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Breaking%20The%20Records.java)
  - [CamelCase](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/CamelCase.java)
+ - [Cats and a Mouse](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Cats%20and%20a%20Mouse.java)
  - [Compare the Triplets](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Compare%20the%20Triplets.java)
  - [Counting Valleys](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Counting%20Valleys.java)
  - [Day of the Programmer](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Day%20of%20the%20Programmer.java)
