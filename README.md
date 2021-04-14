@@ -47,6 +47,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Sock Merchant](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Sock%20Merchant.java)
  - [Solve Me First](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Solve%20Me%20First.java)
  - [Staircase](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Staircase.java)
+ - [The Hurdle Race](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/The%20Hurdle%20Race.java)
  - [Time Conversion](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Time%20Conversion.java)
  
 
