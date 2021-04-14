@@ -30,6 +30,7 @@ Feel free to fork this project and add whatever you like. If you have any sugges
  - [Compare the Triplets](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Compare%20the%20Triplets.java)
  - [Counting Valleys](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Counting%20Valleys.java)
  - [Day of the Programmer](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Day%20of%20the%20Programmer.java)
+ - [Designer PDF Viewer](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Designer%20PDF%20Viewer.java)
  - [Diagonal Difference](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Diagonal%20Difference.java)
  - [Divisible Sum Pairs](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Divisible%20Sum%20Pairs.java)
  - [Drawing Book](https://github.com/Mohammed-Benotmane/Hackerrank-Solution/blob/master/Easy/Drawing%20Book.java)
